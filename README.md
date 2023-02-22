@@ -3,7 +3,7 @@ height= 50.000> Hello, World!
 
 🔭 Atualmente trabalhando como dev jr na empresa [Auma Tecnologia](https://www.auma.com.br/tecnologia-da-informacao)
 
-🌱 No momento aprendendo sobre o framework SAP e o BD SAP HANA
+🌱 No momento aprendendo sobre C#, SAP ERP e SAP HANA BD
 
 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ana-carolina-nunes-16703914b/)!
 
