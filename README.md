@@ -3,7 +3,7 @@ height= 50.000> Hello, World!
 
 🔭 Iniciei na área tech com desenvolvimento de AddOns SAP utilizando C#, B1 Studio e Hana BD 
 
-🚀 Atualmente Dev PL FullStack em aplicações WEB: Front -> React & JS | Back -> C# & SQL Server
+🚀 Atualmente Dev FullStack em aplicações WEB: Front -> React & JS | Back -> C# & SQL Server
 
 🌱 No momento aprendendo sobre HTML, CSS, JS e React.
 
